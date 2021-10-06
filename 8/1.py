@@ -1,3 +1,4 @@
+#https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&answers=on&varId=6&mode=print
 from itertools import product
 
 x = list(product("magistr", repeat=5))
