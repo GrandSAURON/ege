@@ -1,3 +1,4 @@
+# https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&answers=on&varId=6&mode=print
 def bin_to_dec(n):
     return(int(n, base=2))
 
