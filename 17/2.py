@@ -1,3 +1,4 @@
+#https://inf-ege.sdamgia.ru/problem?id=37356
 f = open("17.txt", "r")
 s = list(map(int, f.read().split()))
 counter = 0
