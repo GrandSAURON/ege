@@ -1,3 +1,4 @@
+#https://inf-ege.sdamgia.ru/problem?id=27418
 def win(a,b):
     if a + 1 + b >= 77 or a *2 + b >= 77 or b + 1 + a >= 77 or b * 2 + a >= 77:
         return True
