@@ -1,3 +1,4 @@
+#https://kpolyakov.spb.ru/school/ege/gen.php?action=viewVar&answers=on&varId=13&mode=print
 f = open("17.txt", "r")
 lines = f.readlines()
 count = 0
